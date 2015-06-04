@@ -1,2 +1,4 @@
-# ebug2014-camera-array-pcb
-PCB design files for the camera array board for the eBug 2014.
+ebug2014-camera-array-pcb
+============
+- Created with Altium Designer
+- Open entire project via "eBug2014-CameraArray.DsnWrk"
