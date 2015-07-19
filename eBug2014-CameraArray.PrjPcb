@@ -60,7 +60,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -71,6 +71,23 @@ GenerateClassCluster=0
 DocumentUniqueId=IESASKVQ
 
 [Document3]
+DocumentPath=Power Supply.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UYPENJQC
+
+[Document4]
 DocumentPath=Libraries\Cypress PSoC 5LP.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document5]
 DocumentPath=Libraries\eBug2014-CameraArray\Project Outputs for eBug2014-CameraArray\eBug2014-CameraArray.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document6]
 DocumentPath=Libraries\eBug2014-CameraArray\eBug2014-CameraArray.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,14 +138,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document7]
 DocumentPath=Camera 1-2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -138,14 +155,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGFDXCOY
 
-[Document7]
+[Document8]
 DocumentPath=Camera 3-4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -155,14 +172,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DVFIMGGY
 
-[Document8]
+[Document9]
 DocumentPath=Camera 5-6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -172,14 +189,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RVTPEIIL
 
-[Document9]
+[Document10]
 DocumentPath=Camera 7-8.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -189,14 +206,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXPNFREL
 
-[Document10]
+[Document11]
 DocumentPath=Camera 9-10.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -206,14 +223,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSUNPMGQ
 
-[Document11]
+[Document12]
 DocumentPath=Camera 11-12.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -223,14 +240,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EBUBFTHO
 
-[Document12]
+[Document13]
 DocumentPath=Camera 13-14.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -240,14 +257,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ARLMLJBH
 
-[Document13]
+[Document14]
 DocumentPath=Camera 15-16.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
