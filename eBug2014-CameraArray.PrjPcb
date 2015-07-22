@@ -28,6 +28,8 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -71,23 +73,6 @@ GenerateClassCluster=0
 DocumentUniqueId=IESASKVQ
 
 [Document3]
-DocumentPath=Power Supply.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=8
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UYPENJQC
-
-[Document4]
 DocumentPath=Libraries\Cypress PSoC 5LP.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +89,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=Libraries\eBug2014-CameraArray\Project Outputs for eBug2014-CameraArray\eBug2014-CameraArray.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=Libraries\eBug2014-CameraArray\eBug2014-CameraArray.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=Camera 1-2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGFDXCOY
 
-[Document8]
+[Document7]
 DocumentPath=Camera 3-4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DVFIMGGY
 
-[Document9]
+[Document8]
 DocumentPath=Camera 5-6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RVTPEIIL
 
-[Document10]
+[Document9]
 DocumentPath=Camera 7-8.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXPNFREL
 
-[Document11]
+[Document10]
 DocumentPath=Camera 9-10.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSUNPMGQ
 
-[Document12]
+[Document11]
 DocumentPath=Camera 11-12.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EBUBFTHO
 
-[Document13]
+[Document12]
 DocumentPath=Camera 13-14.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ARLMLJBH
 
-[Document14]
+[Document13]
 DocumentPath=Camera 15-16.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -273,6 +258,91 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPADRWNR
+
+[Document14]
+DocumentPath=LPC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PEXFUEJC
+
+[Document15]
+DocumentPath=Power Supply.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UYPENJQC
+
+[Document16]
+DocumentPath=Libraries\National Semiconductor MiscPower.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document17]
+DocumentPath=Libraries\NXP Semiconductors Cortex-M4.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document18]
+DocumentPath=Libraries\TI Power Management Step-Down Regulator.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for eBug2014-CameraArray\Design Rule Check - PCB.html
@@ -866,6 +936,11 @@ OutputName5=Footprint Comparison Report
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
+OutputType6=Component states check
+OutputName6=Vault's components states check
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
 
 [OutputGroup9]
 Name=Export Outputs
@@ -892,6 +967,16 @@ OutputName4=Export STEP
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
+OutputType5=NetList Sch
+OutputName5=NetList Sch
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=PDF3D
+OutputName6=Export PDF3D
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
 
 [Modification Levels]
 Type1=1
@@ -1129,6 +1214,7 @@ Type107=2
 Type108=2
 Type109=1
 Type110=0
+Type111=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1167,6 +1253,7 @@ NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
 NetClassAutoNamedHarnessEnabled=0
 NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
 SelectedOnly=0
